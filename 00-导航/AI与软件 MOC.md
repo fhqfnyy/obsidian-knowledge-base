@@ -20,6 +20,8 @@ type: moc
 
 ## 软件、自动化与提示词
 
+- [[06-AI与软件/工具与方案/Obsidian 新电脑从 GitHub 恢复与自动同步图文教程|Obsidian 新电脑恢复与自动同步图文教程]]
+
 - [[ANKI牌组模板|ANKI牌组模板]]
 - [[CMMS自来水厂设备维保管理系统|CMMS自来水厂设备维保管理系统]]
 - [[ForgeControl AI 脚本生成规则|ForgeControl AI 脚本生成规则]]
