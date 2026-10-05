@@ -1,0 +1,299 @@
+{
+  "main": {
+    "id": "f0d38fe7d6e7b684",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f9f9e8a74bae08",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6477ea2fd3c6b9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-导航/知识库维护与图形 MOC.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "知识库维护与图形 MOC"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7d3e80fc052eb038",
+    "type": "split",
+    "children": [
+      {
+        "id": "2cac172fb14cdc36",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3cc8052a1e921a81",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "1fdebfe684949a96",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e39e3d5732704149",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "0f476739e2d5a7cf",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "笔记本导航器"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 378.5
+  },
+  "right": {
+    "id": "65eceba4c6258bfd",
+    "type": "split",
+    "children": [
+      {
+        "id": "46daf5e371e929e8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0768fc9f8c49c439",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "4ef2ef86c0664030",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b8c92ccfb89d1309",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "f14daa6107f831e5",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "61a61f8bef0f61ce",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "法语里的“物主代词、物主限定词.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          },
+          {
+            "id": "b3fcae0c29df59d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "笔记属性"
+            }
+          },
+          {
+            "id": "489ab4694cc4a4f7",
+            "type": "leaf",
+            "state": {
+              "type": "dictionary-view",
+              "state": {},
+              "icon": "quote-glyph",
+              "title": "词典"
+            }
+          },
+          {
+            "id": "827fae4d80b8f619",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {
+                "tabWorkspace": {
+                  "version": 1,
+                  "openTabs": [
+                    {
+                      "tabId": "tab-1791208262558-9n5f744",
+                      "conversationId": "conv-1791209363617-1jrcp6azl"
+                    }
+                  ],
+                  "activeTabId": "tab-1791208262558-9n5f744"
+                }
+              },
+              "icon": "bot",
+              "title": "Claudian"
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "horizontal",
+    "width": 451.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "notebook-navigator:笔记本导航器": false,
+      "note-reader:Note Reader": false,
+      "realclaudian:Open Claudian": false
+    }
+  },
+  "active": "6477ea2fd3c6b9cf",
+  "lastOpenFiles": [
+    "00-导航/法语学习 MOC.md",
+    "00-导航/工程数学 MOC.md",
+    "00-导航/工程技术 MOC.md",
+    "00-导航/编程学习 MOC.md",
+    "00-导航/AI与软件 MOC.md",
+    "00-导航/工作与管理 MOC.md",
+    "00-导航/阅读与知识 MOC.md",
+    "00-导航/个人记录与创作 MOC.md",
+    "00-导航/资料库 MOC.md",
+    "00-导航/知识库维护与图形 MOC.md",
+    "00-导航/项目 MOC.md",
+    "00-导航/标签与Frontmatter规范.md",
+    "80-资料库/500词根词缀/资料/-vinc-=-vict-.md",
+    "05-法语/语法/法语物主限定词与物主代词.md",
+    "05-法语/语法/法语语法学习路线.md",
+    "知识库整理操作清单.md",
+    "90-待确认/项目归属待确认.md",
+    "02-工程技术/运维/设备管理.md",
+    "02-工程技术/运维",
+    "02-工程技术/水处理/水质监测.md",
+    "00-收件箱",
+    "91-归档/空目录",
+    "90-待确认/无扩展名文件",
+    "99-附件/文档",
+    "90-待确认/重复附件",
+    "99-附件/图片",
+    "99-附件/PDF",
+    "99-附件",
+    "91-归档/附件整理记录",
+    "知识库整理报告.md",
+    "知识库首页.md",
+    "知识库整理方案.md",
+    "90-待确认/重复笔记/重复笔记待确认.md",
+    "90-待确认/附件与链接待确认.md",
+    "90-待确认/空白与零散笔记待确认.md",
+    "90-待确认/孤立笔记盘点.md",
+    "未命名.canvas",
+    "6482EFB87CC9499A7CA3DD6489491B87.png",
+    "6482EFB87CC9499A7CA3DD6489491B87 1.png",
+    "Excalidraw/Scripts/Downloaded/Mindmap connector.svg",
+    "Pasted image 20260222143112.png",
+    "Pasted image 20260222142952.png",
+    "Pasted image 20260222142930.png",
+    "Pasted Image 20260129082427_838.svg",
+    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.svg",
+    "Canvas/canvas_test.canvas",
+    "Canvas/未命名.canvas",
+    "Excalidraw/Scripts/Downloaded/Text to Path.svg",
+    "未命名 1.canvas",
+    "99-附件/图片/fdf7277d3eea3d8bd7515dcb9e07a53.jpg"
+  ]
+}

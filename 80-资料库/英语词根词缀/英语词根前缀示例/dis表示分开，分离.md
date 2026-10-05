@@ -1,0 +1,9 @@
+disseminate 	散布，传播（dis+semin 种子＋ate→散布〔种子〕）
+dispense 	分配（dis+pense 花费→分开花费→分配〔财富等〕）
+distract	 分心（dis+tract 拉→把〔心〕拉开→分心） 
+distend 	膨胀（dis+tend 拉→分开拉→膨胀） 
+discriminate 	辨别；歧视（dis+crimin 分辨→ate→分辩开） 
+dismiss	 解散；开除（dis+miss 送→送出→解散） 
+disburse	 支付，支出（dis+burse 钱包→从钱包中分出→支出） 
+discard	 丢弃，抛弃（dis+card 扔→扔出去） 
+discuss 	讨论（dis+cuss 敲打→把〔问题〕分开敲→讨论） 

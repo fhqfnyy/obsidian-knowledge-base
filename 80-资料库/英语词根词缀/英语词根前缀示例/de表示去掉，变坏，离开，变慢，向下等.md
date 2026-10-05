@@ -1,0 +1,9 @@
+destruction	 破坏（de+struct 结构；建造＋ion→弄坏结构→破坏） 
+desalt 	除去盐分（de+salt 盐→去掉盐分） 
+deforest	 砍伐森林（de+forest 森林→去掉森林） 
+devalue 	降低价值（de+value 价值→去掉价值） 
+depress 	压制，压抑（de+press 压→向下压→压制） 
+detrain 	下火车（de+train 火车） 
+decelerate 	减速（de+celer 速度＋ate→使速度变慢） 
+decode	 破译（de+code 密码→去掉密码） 
+defame 	诽谤，中伤（de+fame 名声→名声变坏→诽谤） 

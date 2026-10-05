@@ -1,0 +1,10 @@
+# out	表示”出去.过时”
+1. outside 	ad.在外面(out+side 旁边→在外边) 
+2. outgoing 	a.友善的(out+going 走→走出来→心胸宽→待人友善的) 
+3. outlandish	 a.奇异的(out+land 地→ish→外地来的→奇异的) 
+4. outrage 	n.粗暴,暴行(out+rage 怒气→怒气外露→粗暴) 
+5. outskirts	 n.郊区(out+skirts 裙子;城市周边→郊区) 
+6. outflow	 v.流出(out+flow 流→流出) 
+7. outbreak	 n.爆发(out+break 断裂→事情断裂→爆发) 
+8. outline 	n.大纲;轮廓(out+line 线条→划出线条→大纲) 
+9. outmoded 	a.过时的(out+moded 时髦的→出了时髦→不时髦的) 

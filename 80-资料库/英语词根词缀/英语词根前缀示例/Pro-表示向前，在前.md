@@ -1,0 +1,31 @@
+# Pro-	表示“向前，在前”
+1. progress	 进步（pro+gress 走→向前走） 
+2. project 	投射出;工程项目(pro+ject+扔+扔向前面→投射;引申为工程项目) 
+3. prologue 	前言,序言(pro+logue 说→在前面说→前言) 
+4. promote 	促进;提升(pro+mote 动→向前动→促进) 
+5. protrude 	向前突出(pro+trude 突出→向前突出) 
+6. propel 	推进(pro+pel 推→向前推) 
+7. proficient	 精通的;熟练的(pro+fici 做+ent→做在别人 前面→精通) 
+8. profile	 侧面像;轮廓(pro+file 纱线→前面的线条) 
+9. profess 	公开表明,坦白(pro+fess 说→在前面说坦白) 
+10. prodigious 	(数量等)巨大的(pro=pro+ig=act 做→做在前面,做得多→大量的) 
+11. proclivity 	倾向性,癖性(pro+cliv 倾斜+ity→向前倾斜) 
+12. procure 	(费心)取得,获得(pro+cure 关心→关心在前→想要获得) 
+13. prominent 	显著的,杰出的(pro+min 伸+ent→向前伸出→杰出的) 
+14. prosecute	 检举;指控(pro+secu 追随+ate→追随到法院前面→检举;指控) 
+15. prospect 	景象,前景(pro+spect 看→向前看→前景) 
+16. provident 	顾及未来的,有远见的(pro+vid 看+ent→向前看的→有远见的) 
+17. provoke 	激怒,刺激(pro+voke 喊→在你前面喊→激怒你) 
+# pro	表示“很多…”
+1. procrastinate 	拖延(pro+crastin 明天+ate→有许多明天明日复明日→拖延) 
+2. procreate 	生育(pro+create 创造→创造很多→生儿育女) 
+3. profligate 	浪费的,挥霍的(pro+flig 打出+ate→把钱不断的打出去→挥霍) 
+4. proliferate	 繁殖,增殖(pro+lifer 带来+ate→带来很多生命→繁殖) 
+5. profit 	利润,收益(pro+fit 做→做很多→做得好→利润) 
+6. profuse 	大量的,丰富的(pro+fuse 流→流很多→大量的) 
+7. prolific	 多产的,多育的(pro+lif 带来+ic→带来东西→多产的) 
+8. prosperous	 兴旺的,繁荣的(pro+sper 希望+ous→希望很多→兴旺的) 
+# pro	表示“赞同，亲…” 
+1. pro-American 	亲美的 
+2. proslavery 	赞成奴隶制的(pro+slavery 奴隶制) 
+3. proabortionist 	赞成堕胎者的(pro+abortion 堕胎+ist) 

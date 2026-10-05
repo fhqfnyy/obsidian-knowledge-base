@@ -1,0 +1,1 @@
+C:\Program Files\SketchUp\SketchUp 2024，这是sketchup的安装目录，安装它https://github.com/russell-qca/sketchup-mcp，并进行建模，建一个二层的民宿

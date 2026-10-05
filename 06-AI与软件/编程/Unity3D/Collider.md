@@ -1,0 +1,29 @@
+以下是一个简单的示例程序，演示如何使用Collider组件来处理游戏对象之间的碰撞检测：
+
+```csharp
+using UnityEngine;
+
+public class CollisionExample : MonoBehaviour
+{
+    void OnCollisionEnter(Collision collision)
+    {
+        // 当游戏对象发生碰撞时调用该方法
+        Debug.Log("Collision with: " + collision.gameObject.name);
+    }
+
+    void OnTriggerEnter(Collider other)
+    {
+        // 当游戏对象进入触发器时调用该方法
+        Debug.Log("Trigger enter: " + other.gameObject.name);
+    }
+}
+```
+
+在这个示例中：
+
+- `OnCollisionEnter(Collision collision)` 方法用于检测碰撞发生。当附加该脚本的游戏对象与另一个具有碰撞器（Collider）的游戏对象发生碰撞时，此方法将被调用。
+- `Collision collision` 参数包含了有关碰撞事件的信息，包括碰撞对象的引用等。在这个示例中，我们打印了碰撞对象的名称。
+- `OnTriggerEnter(Collider other)` 方法用于检测进入触发器的事件。当附加该脚本的游戏对象进入另一个具有触发器（Trigger）的游戏对象时，此方法将被调用。
+- 与碰撞检测不同，触发器检测不需要刚体（Rigidbody）的参与，只需要一个带有触发器组件的游戏对象。
+
+您可以将这些方法添加到脚本中，并将脚本附加到希望进行碰撞检测的游戏对象上。
