@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-收件箱/测试笔记.md",
+                "file": "06-AI与软件/工具与方案/Obsidian 新电脑从 GitHub 恢复与自动同步图文教程.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "测试笔记"
+              "title": "Obsidian 新电脑从 GitHub 恢复与自动同步图文教程"
             }
           }
         ]
@@ -247,6 +247,12 @@
   "active": "38582f433cbde7e5",
   "lastOpenFiles": [
     "00-收件箱/测试笔记.md",
+    "06-AI与软件/工具与方案/Obsidian 新电脑从 GitHub 恢复与自动同步图文教程.md",
+    "99-附件/教程/Obsidian新电脑同步/03-拉取与推送设置.png",
+    "99-附件/教程/Obsidian新电脑同步/02-Git设置入口.png",
+    "99-附件/教程/Obsidian新电脑同步/01-自动同步设置.png",
+    "99-附件/教程/Obsidian新电脑同步",
+    "99-附件/教程",
     "00-导航/知识库维护与图形 MOC.md",
     "00-导航/法语学习 MOC.md",
     "00-导航/工程数学 MOC.md",
@@ -274,14 +280,11 @@
     "90-待确认/重复附件",
     "99-附件/图片",
     "99-附件/PDF",
-    "99-附件",
-    "91-归档/附件整理记录",
     "知识库整理报告.md",
     "知识库首页.md",
     "知识库整理方案.md",
     "90-待确认/重复笔记/重复笔记待确认.md",
     "90-待确认/附件与链接待确认.md",
-    "90-待确认/空白与零散笔记待确认.md",
     "未命名.canvas",
     "6482EFB87CC9499A7CA3DD6489491B87.png",
     "6482EFB87CC9499A7CA3DD6489491B87 1.png",
@@ -290,11 +293,8 @@
     "Pasted image 20260222142952.png",
     "Pasted image 20260222142930.png",
     "Pasted Image 20260129082427_838.svg",
-    "Excalidraw/Scripts/Downloaded/Copy Selected Element Styles to Global.svg",
     "Canvas/canvas_test.canvas",
     "Canvas/未命名.canvas",
-    "Excalidraw/Scripts/Downloaded/Text to Path.svg",
-    "未命名 1.canvas",
-    "99-附件/图片/fdf7277d3eea3d8bd7515dcb9e07a53.jpg"
+    "未命名 1.canvas"
   ]
 }
