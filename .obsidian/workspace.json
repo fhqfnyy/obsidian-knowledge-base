@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-收件箱/我们的征途是星辰大海，而不是彼此的废墟.md",
+                "file": "09-个人记录/敏感资料/一期移交的密码清单（中文译本）.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "我们的征途是星辰大海，而不是彼此的废墟"
+              "title": "一期移交的密码清单（中文译本）"
+            }
+          },
+          {
+            "id": "e3904675390dc1c2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.14.5"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -55,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "一期移交",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +103,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,10 +257,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f476739e2d5a7cf",
+  "active": "e3904675390dc1c2",
   "lastOpenFiles": [
-    "00-收件箱/未命名.md",
+    "90-待确认/孤立笔记盘点.md",
     "00-收件箱/我们的征途是星辰大海，而不是彼此的废墟.md",
+    "00-收件箱/未命名.md",
     "00-收件箱/英语语法｜as 与 as...as 的用法.md",
     "00-收件箱/英语例句解析提示词.md",
     "00-收件箱/SCPW20 TTS 插件导致 WinCC 运行时挂起 —— 故障分析报告.md",
@@ -276,7 +290,6 @@
     "05-法语/语法/法语物主限定词与物主代词.md",
     "05-法语/语法/法语语法学习路线.md",
     "知识库整理操作清单.md",
-    "90-待确认/项目归属待确认.md",
     "02-工程技术/运维",
     "00-收件箱",
     "91-归档/空目录",
