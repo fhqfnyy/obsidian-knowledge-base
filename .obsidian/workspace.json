@@ -89,7 +89,8 @@
               "title": "笔记本导航器"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -243,7 +244,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e801919fe2452275",
+  "active": "0f476739e2d5a7cf",
   "lastOpenFiles": [
     "99-附件/图片/电气技术问答-变频启动四量对比.png",
     "99-附件/图片/电气技术问答-异步电动机直接启动.png",
