@@ -13,15 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-工作/工作记录/聊天摘要/2026-11-10 聊天重要信息.md",
+                "file": "09-个人记录/敏感资料/APIKEY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-11-10 聊天重要信息"
+              "title": "APIKEY"
+            }
+          },
+          {
+            "id": "b78db238945291b3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.15.1"
+              },
+              "icon": "lucide-book-up",
+              "title": "版本说明 1.15.1"
+            }
+          },
+          {
+            "id": "913aa453f26e53fb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -55,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "apikey",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,7 +113,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -244,8 +267,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f476739e2d5a7cf",
+  "active": "913aa453f26e53fb",
   "lastOpenFiles": [
+    "01-工作/工作记录/聊天摘要/2026-11-10 聊天重要信息.md",
     "09-个人记录/聊天日志/2026-11-10.md",
     "09-个人记录/聊天日志/2026-11-09.md",
     "09-个人记录/敏感资料/APIKEY.md",
@@ -276,7 +300,6 @@
     "00-导航/工作与管理 MOC.md",
     "00-导航/阅读与知识 MOC.md",
     "00-导航/个人记录与创作 MOC.md",
-    "00-导航/资料库 MOC.md",
     "02-工程技术/运维",
     "00-收件箱",
     "91-归档/空目录",
