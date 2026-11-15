@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "02-工程技术/电气/电气技术问答汇总_Obsidian.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "张洁川——电气及自动化工程师简历摘要"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,7 +258,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "363b48a28fecc343",
+  "active": "e801919fe2452275",
   "lastOpenFiles": [
     "00-收件箱/张洁川——电气及自动化工程师简历摘要.md",
     "02-工程技术/电气/电气技术问答汇总_Obsidian.md",
