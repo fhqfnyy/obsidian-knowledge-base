@@ -35,7 +35,8 @@
               "title": "张洁川——电气及自动化工程师简历摘要"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -258,10 +259,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e801919fe2452275",
+  "active": "363b48a28fecc343",
   "lastOpenFiles": [
-    "00-收件箱/张洁川——电气及自动化工程师简历摘要.md",
     "02-工程技术/电气/电气技术问答汇总_Obsidian.md",
+    "00-收件箱/张洁川——电气及自动化工程师简历摘要.md",
     "02-工程技术/电气/通用 EPLAN 绘图助手提示词（核心版）.md",
     "02-工程技术/电气/变频器制动电压升高问题.md",
     "02-工程技术/电气/安全PLC.md",
