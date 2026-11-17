@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "电气技术问答汇总_Obsidian"
             }
-          },
-          {
-            "id": "363b48a28fecc343",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-收件箱/张洁川——电气及自动化工程师简历摘要.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "张洁川——电气及自动化工程师简历摘要"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -259,8 +244,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "363b48a28fecc343",
+  "active": "e801919fe2452275",
   "lastOpenFiles": [
+    "02-工程技术/电气/电气工程师面试题库_47题_答案详解版.md",
     "02-工程技术/电气/电气技术问答汇总_Obsidian.md",
     "00-收件箱/张洁川——电气及自动化工程师简历摘要.md",
     "02-工程技术/电气/通用 EPLAN 绘图助手提示词（核心版）.md",
@@ -294,7 +280,6 @@
     "09-个人记录/敏感资料/欧佐内二期密码移交.md",
     "09-个人记录/敏感资料/一期移交的密码清单（中文译本）.md",
     "90-待确认/孤立笔记盘点.md",
-    "00-收件箱/我们的征途是星辰大海，而不是彼此的废墟.md",
     "99-附件/教程/Obsidian新电脑同步/03-拉取与推送设置.png",
     "99-附件/教程/Obsidian新电脑同步/02-Git设置入口.png",
     "99-附件/教程/Obsidian新电脑同步",
