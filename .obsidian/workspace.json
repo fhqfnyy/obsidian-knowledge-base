@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02-工程技术/电气/电气技术问答汇总_Obsidian.md",
+                "file": "01-工作/工作记录/基于PLC的设备能耗监测与数据分析系统设计开题报告.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "电气技术问答汇总_Obsidian"
+              "title": "基于PLC的设备能耗监测与数据分析系统设计开题报告"
             }
           }
         ]
@@ -86,7 +86,7 @@
               "type": "notebook-navigator",
               "state": {},
               "icon": "notebook-navigator",
-              "title": "笔记本导航器"
+              "title": "Notebook Navigator"
             }
           }
         ],
@@ -238,14 +238,23 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-excalidraw-plugin:新建绘图文件": false,
-      "notebook-navigator:笔记本导航器": false,
       "note-reader:Note Reader": false,
       "realclaudian:Open Claudian": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "e801919fe2452275",
   "lastOpenFiles": [
+    "01-工作/工作记录/20250322物资信息.md",
+    "01-工作/工作记录/基于PLC的设备能耗监测与数据分析系统设计开题报告.md",
+    "01-工作/工作记录/试运行值日表.md",
+    "01-工作/工作记录/周工作计划.md",
+    "01-工作/工作记录/PID审批意见.md",
+    "01-工作/工作记录/聊天摘要/2026-11-16 聊天重要信息.md",
+    "01-工作/工作记录/聊天摘要/2026-11-17 聊天重要信息.md",
+    "09-个人记录/聊天日志/2026-11-10.md",
+    "09-个人记录/聊天日志/2026-11-09.md",
     "02-工程技术/电气/电气工程师面试题库_47题_答案详解版.md",
     "02-工程技术/电气/电气技术问答汇总_Obsidian.md",
     "00-收件箱/张洁川——电气及自动化工程师简历摘要.md",
@@ -271,15 +280,6 @@
     "99-附件/图片/电气技术问答-直接启动电流.png",
     "99-附件/图片/电气技术问答-短路电流.png",
     "09-个人记录/敏感资料/APIKEY.md",
-    "00-收件箱/谷歌账号地区限制.md",
-    "00-收件箱/电气技术问题与答案汇总表.md",
-    "01-工作/工作记录/聊天摘要/2026-11-10 聊天重要信息.md",
-    "09-个人记录/聊天日志/2026-11-10.md",
-    "09-个人记录/聊天日志/2026-11-09.md",
-    "09-个人记录/敏感资料/欧佐内三期密码移交.md",
-    "09-个人记录/敏感资料/欧佐内二期密码移交.md",
-    "09-个人记录/敏感资料/一期移交的密码清单（中文译本）.md",
-    "90-待确认/孤立笔记盘点.md",
     "99-附件/教程/Obsidian新电脑同步/03-拉取与推送设置.png",
     "99-附件/教程/Obsidian新电脑同步/02-Git设置入口.png",
     "99-附件/教程/Obsidian新电脑同步",
