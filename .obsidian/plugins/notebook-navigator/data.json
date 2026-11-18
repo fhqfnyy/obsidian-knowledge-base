@@ -216,7 +216,7 @@
   "showAllPropertiesFolder": true,
   "scopePropertiesToCurrentContext": false,
   "defaultListMode": "standard",
-  "includeDescendantNotes": false,
+  "includeDescendantNotes": true,
   "defaultFolderSort": "modified-desc",
   "defaultFolderSortPropertyKey": "",
   "propertySortKey": "",
@@ -522,7 +522,9 @@
   "folderIcons": {},
   "folderColors": {},
   "folderBackgroundColors": {},
-  "folderSortOverrides": {},
+  "folderSortOverrides": {
+    "/": "created-desc"
+  },
   "folderTreeSortOverrides": {},
   "folderChildOrder": {},
   "folderAppearances": {},
