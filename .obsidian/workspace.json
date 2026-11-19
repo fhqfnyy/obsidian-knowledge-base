@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-收件箱/未命名.md",
+                "file": "00-收件箱/物料编码路径.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "物料编码路径"
             }
           }
         ]
@@ -246,7 +246,7 @@
   },
   "active": "ae4c12c4b6e6d661",
   "lastOpenFiles": [
-    "00-收件箱/未命名.md",
+    "00-收件箱/物料编码路径.md",
     "01-工作/管理/张琪 - 海外电气工程师面试摘要.md",
     "01-工作/管理/卡南加项目 - 张琪电气工程师面试题.md",
     "02-工程技术/电气/电气技术问答汇总_Obsidian.md",
