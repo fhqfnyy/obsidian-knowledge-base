@@ -259,10 +259,45 @@
       "notebook-navigator:Notebook Navigator": false
     }
   },
-  "active": "8e989c12c7f63c9e",
+  "floating": {
+    "id": "7ac89391aaa74448",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ce8f963fd6603448",
+        "type": "window",
+        "children": [
+          {
+            "id": "c2d7d35184ac3915",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ec289617ab66eda1",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {},
+                  "icon": "lucide-file",
+                  "title": "新标签页"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 3716,
+        "y": 331,
+        "width": 857,
+        "height": 1352,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "ec289617ab66eda1",
   "lastOpenFiles": [
-    "01-工作/工作记录/聊天摘要/2026-11-20 聊天重要信息.md",
     "00-收件箱/关于监理意见的处理提示词.md",
+    "01-工作/工作记录/聊天摘要/2026-11-20 聊天重要信息.md",
     "00-收件箱/物料编码路径.md",
     "01-工作/管理/张琪 - 海外电气工程师面试摘要.md",
     "01-工作/管理/卡南加项目 - 张琪电气工程师面试题.md",
